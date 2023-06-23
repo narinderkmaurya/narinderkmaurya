@@ -3,7 +3,7 @@ I'm a web developer who is passionate about creating dynamic and user-friendly w
 
 💻 My Skills
 HTML, CSS, JavaScript
-React.js, Bootstrap, Material UI
+React.js, Bootstrap, Material UI,
 Git, GitHub
 🌱 I'm Currently Learning
 Data Structures and Algorithms
