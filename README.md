@@ -12,9 +12,6 @@ Full-stack Web Development
 Front-end projects
 🔍 How to Reach Me
 Email: narinder06@pm.me
-Twitter: twitter.com/narinderkmaurya
-
-
 Support me Here- https://www.buymeacoffee.com/narinderkmaurya
 
 
