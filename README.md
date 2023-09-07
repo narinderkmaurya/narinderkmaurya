@@ -25,4 +25,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Resume Link : https://rb.gy/2lddf
+Resume Link : rebrand.ly/narinderkmaurya
