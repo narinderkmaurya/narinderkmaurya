@@ -1,10 +1,11 @@
 Hi there, I'm Narinder! 👋
 I'm a web developer who is passionate about creating dynamic and user-friendly websites. Currently, I am learning Data Structures and Algorithms along with web development. I have experience working with React.js and front-end development.
 
-💻 My Skills
-HTML, CSS, JavaScript
-React.js, Bootstrap, Material UI,
-Git, GitHub
+💻 My Skills are
+HTML, CSS, JavaScript,
+React.js, Next.js, Tailwind CSS, Material UI,
+MongoDB, Git, GitHub
+
 🌱 I'm Currently Learning
 Data Structures and Algorithms
 Full-stack Web Development
